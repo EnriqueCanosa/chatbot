@@ -1,0 +1,48 @@
+body {
+    font-family: 'Cinzel', serif; /* Fonte com estilo medieval */
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('banner-medieval.jpg'); /* Banner com tema medieval */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background: #444;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    background: #fff;
+}
+
+h1, h2 {
+    font-family: 'Uncial Antiqua', cursive; /* Outra fonte com estilo antigo */
+    color: #800000; /* Cor semelhante a vermelho medieval */
+}
